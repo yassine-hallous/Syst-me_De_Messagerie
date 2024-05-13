@@ -1,2 +1,2 @@
 # Syst-me_De_Messagerie
-This C programming project aims to simulate a messaging system using sockets for communication between the server and clients, as well as files to store user accounts and messages.
+This project involves a wide range of programming principles, including functions, pointers , file handling, library (API) invoking, network sockets, and threads. The system is separated into two primary parts: user account management and message management.  Additionally, it utilizes sockets to establish connections with a local server, enabling concurrent communication among multiple clients.
