@@ -1,2 +1,2 @@
-# Systme_De_Messagerie
+# Systéme_De_Messagerie
 This project involves a wide range of programming principles, including functions, pointers , file handling, library (API) invoking, network sockets, and threads. The system is separated into two primary parts: user account management and message management.  Additionally, it utilizes sockets to establish connections with a local server, enabling concurrent communication among multiple clients.
